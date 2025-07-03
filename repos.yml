@@ -5,9 +5,10 @@
 ./oca_addons/l10n-spain:
     remotes:
         oca: https://github.com/OCA/l10n-spain.git
+        suker: git@github.com:suker/l10n-spain.git
     merges:
         - oca 18.0
-        - oca refs/pull/4065/head
+        - suker 18.0-mig-payment_redsys
 
 ./oca_addons/pos:
     remotes:
