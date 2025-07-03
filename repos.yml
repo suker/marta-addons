@@ -7,6 +7,7 @@
         oca: https://github.com/OCA/l10n-spain.git
     merges:
         - oca 18.0
+        - oca refs/pull/4065/head
 
 ./oca_addons/pos:
     remotes:
