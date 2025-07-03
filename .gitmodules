@@ -1,0 +1,12 @@
+[submodule "oca_addons/l10n-spain"]
+	path = oca_addons/l10n-spain
+	url = https://github.com/OCA/l10n-spain.git
+[submodule "oca_addons/pos"]
+	path = oca_addons/pos
+	url = https://github.com/OCA/pos.git
+[submodule "oca_addons/server-tools"]
+	path = oca_addons/server-tools
+	url = https://github.com/OCA/server-tools.git
+[submodule "oca_addons/web"]
+	path = oca_addons/web
+	url = https://github.com/OCA/web.git

@@ -1,0 +1,27 @@
+# CUSTOM ADDONS FOR ODOO 18.0
+
+
+# OCA ADDONS FOR ODOO 18.0
+./oca_addons/l10n-spain:
+    remotes:
+        oca: https://github.com/OCA/l10n-spain.git
+    merges:
+        - oca 18.0
+
+./oca_addons/pos:
+    remotes:
+        oca:  https://github.com/OCA/pos.git
+    merges:
+        - oca 18.0
+
+./oca_addons/server-tools:
+    remotes:
+        oca: https://github.com/OCA/server-tools.git
+    merges:
+        - oca 18.0
+
+./oca_addons/web:
+    remotes:
+        oca: https://github.com/OCA/web.git
+    merges:
+        - oca 18.0
